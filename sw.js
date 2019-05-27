@@ -3,7 +3,7 @@ var cacheList=[
     './',
     './index.html',
     './main.css',
-    './pwaIcon.jpg'
+    './pwaicon.jpg'
 ] //需要缓存的文件路径
 //当脚本加载完毕执行
 self.addEventListener('install',function(e){
