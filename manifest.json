@@ -3,7 +3,7 @@
   "name":"我的首个PWA",
   "short_name":"我的PWA",
   "description":"描述我的PWA",
-  "start_url":"https://xinjiboy1234.github.io",
+  "start_url":"/xinjiboy1234.github.io",
   "display":"standalone",
   "background_color":"#fff",
   "theme_color":"#9c67fc",
