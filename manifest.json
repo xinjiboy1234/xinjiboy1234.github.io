@@ -3,13 +3,13 @@
   "name":"我的首个PWA",
   "short_name":"我的PWA",
   "description":"描述我的PWA",
-  "start_url":"/pwa_demo01",
+  "start_url":"xinjiboy1234.github.io",
   "display":"standalone",
   "background_color":"#fff",
   "theme_color":"#9c67fc",
   "icons":[
       {
-          "src":"pwaIcon.jpg",
+          "src":"pwaicon.jpg",
           "sizes":"120x120 1x1",
           "type":"image/png"
       }
