@@ -1,0 +1,7 @@
+
+if(navigator.serviceWorker!=null){//判断是否支持serviceWorker
+             //加载相关serviceWorker脚本
+            navigator.serviceWorker.register('sw.js').then(function(registartion){
+                console.log('support sw',registartion.scope)
+            })
+        }
